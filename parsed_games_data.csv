@@ -1,0 +1,40 @@
+Date,Home Team,Home Score,Visitor Team,Visitor Score,Game ID,Points,Assists,Rebounds,Minutes
+2024-11-10 18:30:00,Los Angeles Lakers,123,Toronto Raptors,103,14265,14,4,10,31
+2024-11-09 19:30:00,LA Clippers,105,Toronto Raptors,103,14254,5,3,10,30
+2024-11-06 19:00:00,Sacramento Kings,122,Toronto Raptors,107,14234,10,4,8,35
+2024-11-04 19:00:00,Denver Nuggets,121,Toronto Raptors,119,14220,24,3,2,32
+2024-11-02 16:30:00,Toronto Raptors,131,Sacramento Kings,128,14197,13,2,9,34
+2024-11-01 16:30:00,Toronto Raptors,125,Los Angeles Lakers,131,14191,19,6,1,35
+2024-10-30 16:00:00,Charlotte Hornets,138,Toronto Raptors,133,14171,20,2,1,35
+2024-10-28 16:30:00,Toronto Raptors,125,Denver Nuggets,127,14161,16,2,9,40
+2024-10-26 17:00:00,Minnesota Timberwolves,112,Toronto Raptors,101,14147,8,3,10,30
+2024-10-25 16:00:00,Toronto Raptors,115,Philadelphia 76ers,107,14132,19,3,9,27
+2024-10-23 16:30:00,Toronto Raptors,106,Cleveland Cavaliers,136,14121,6,2,9,26
+2024-03-03 15:00:00,Toronto Raptors,111,Charlotte Hornets,106,13423,8,3,2,15
+2024-03-01 16:30:00,Toronto Raptors,105,Golden State Warriors,120,13408,10,2,14,25
+2024-02-28 16:30:00,Toronto Raptors,125,Dallas Mavericks,136,13392,16,6,7,29
+2024-02-26 16:00:00,Indiana Pacers,122,Toronto Raptors,130,13377,15,4,10,22
+2024-02-23 16:30:00,Atlanta Hawks,121,Toronto Raptors,123,13352,12,6,13,26
+2024-02-22 16:00:00,Toronto Raptors,121,Brooklyn Nets,93,13343,8,2,9,26
+2024-02-14 16:30:00,Toronto Raptors,125,Indiana Pacers,127,13330,19,3,11,30
+2024-02-12 16:30:00,Toronto Raptors,99,San Antonio Spurs,122,13312,12,1,6,20
+2024-02-10 16:30:00,Toronto Raptors,95,Cleveland Cavaliers,119,13304,6,1,7,21
+2024-02-09 16:30:00,Toronto Raptors,107,Houston Rockets,104,13292,16,3,13,37
+2024-02-07 16:00:00,Charlotte Hornets,117,Toronto Raptors,123,13274,12,2,12,33
+2024-02-05 17:00:00,New Orleans Pelicans,138,Toronto Raptors,100,13266,14,1,9,28
+2024-02-04 16:00:00,Oklahoma City Thunder,135,Toronto Raptors,127,13258,19,3,12,33
+2024-02-02 17:00:00,Houston Rockets,135,Toronto Raptors,106,13240,6,1,5,20
+2024-01-07 17:30:00,Golden State Warriors,118,Toronto Raptors,133,13052,14,5,11,31
+2024-01-05 19:00:00,Sacramento Kings,135,Toronto Raptors,130,13040,14,2,6,23
+2024-01-03 17:00:00,Memphis Grizzlies,111,Toronto Raptors,116,13018,7,2,8,33
+2024-01-01 16:30:00,Toronto Raptors,124,Cleveland Cavaliers,121,13000,14,4,11,37
+2023-12-30 15:00:00,Detroit Pistons,129,Toronto Raptors,127,12988,4,5,14,35
+2023-12-29 16:30:00,Boston Celtics,120,Toronto Raptors,118,12980,12,3,10,22
+2023-12-27 16:00:00,Washington Wizards,102,Toronto Raptors,132,12964,10,2,8,21
+2023-12-23 16:30:00,Toronto Raptors,119,Utah Jazz,126,12943,2,3,4,21
+2023-12-22 16:00:00,Philadelphia 76ers,121,Toronto Raptors,111,12930,19,2,8,29
+2023-12-20 16:30:00,Toronto Raptors,104,Denver Nuggets,113,12917,4,3,5,19
+2023-12-18 16:30:00,Toronto Raptors,114,Charlotte Hornets,99,12902,4,2,1,15
+2023-12-15 16:30:00,Toronto Raptors,104,Atlanta Hawks,125,12878,15,0,8,25
+2023-12-13 16:30:00,Toronto Raptors,135,Atlanta Hawks,128,12861,15,6,13,32
+2023-12-11 16:30:00,New York Knicks,136,Toronto Raptors,130,12845,11,2,8,24

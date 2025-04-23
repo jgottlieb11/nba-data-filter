@@ -1,0 +1,72 @@
+Date,Home Team,Home Score,Visitor Team,Visitor Score,Game ID,Points,Assists,Rebounds,Minutes,Threes,Steals,Blocks
+2024-11-16 17:00:00,Boston Celtics,126,Toronto Raptors,123,14304,18,4,5,41,3,0,2
+2024-11-13 16:30:00,Brooklyn Nets,114,Boston Celtics,139,14280,9,3,2,22,3,0,1
+2024-11-12 16:00:00,Boston Celtics,116,Atlanta Hawks,117,14271,31,5,6,38,7,1,0
+2024-11-10 12:30:00,Milwaukee Bucks,107,Boston Celtics,113,14256,15,6,6,36,3,1,1
+2024-11-08 16:30:00,Boston Celtics,108,Brooklyn Nets,104,14241,14,6,3,43,1,0,3
+2024-11-06 16:30:00,Boston Celtics,112,Golden State Warriors,118,14226,26,3,6,36,7,2,0
+2024-11-04 16:45:00,Atlanta Hawks,93,Boston Celtics,123,14211,21,6,6,29,4,2,1
+2024-11-02 15:00:00,Charlotte Hornets,103,Boston Celtics,113,14195,18,2,8,34,4,1,2
+2024-11-01 16:00:00,Charlotte Hornets,109,Boston Celtics,124,14186,17,5,2,35,3,1,1
+2024-10-30 16:00:00,Indiana Pacers,135,Boston Celtics,132,14173,23,1,3,37,5,1,1
+2024-10-28 16:30:00,Boston Celtics,119,Milwaukee Bucks,108,14158,13,8,3,34,3,1,1
+2024-06-17 17:30:00,Boston Celtics,106,Dallas Mavericks,88,14042,14,1,8,38,4,2,1
+2024-06-14 17:30:00,Dallas Mavericks,122,Boston Celtics,84,14041,6,1,4,31,2,0,0
+2024-06-12 17:30:00,Dallas Mavericks,99,Boston Celtics,106,14040,16,4,5,42,4,0,2
+2024-06-09 17:00:00,Boston Celtics,105,Dallas Mavericks,98,14039,18,2,5,38,4,3,2
+2024-06-06 17:30:00,Boston Celtics,107,Dallas Mavericks,89,14038,15,5,2,35,3,1,0
+2024-05-27 17:00:00,Indiana Pacers,102,Boston Celtics,105,14030,16,4,4,42,2,5,3
+2024-05-25 17:30:00,Indiana Pacers,111,Boston Celtics,114,14028,13,7,5,35,2,0,4
+2024-05-23 17:00:00,Boston Celtics,126,Indiana Pacers,110,14026,23,6,4,36,4,1,1
+2024-05-21 17:00:00,Boston Celtics,133,Indiana Pacers,128,14024,15,9,6,42,3,2,1
+2024-05-15 16:00:00,Boston Celtics,113,Cleveland Cavaliers,98,14021,18,6,5,36,4,0,2
+2024-05-13 16:00:00,Cleveland Cavaliers,102,Boston Celtics,109,14020,5,3,7,30,1,1,0
+2024-05-11 17:30:00,Cleveland Cavaliers,93,Boston Celtics,106,14019,12,3,3,37,3,1,1
+2024-05-09 16:00:00,Boston Celtics,94,Cleveland Cavaliers,118,14018,10,5,4,30,1,0,1
+2024-05-07 16:00:00,Boston Celtics,120,Cleveland Cavaliers,95,14017,25,5,1,33,7,0,0
+2024-05-01 16:30:00,Boston Celtics,118,Miami Heat,84,13991,25,2,5,29,5,1,0
+2024-04-29 16:30:00,Miami Heat,88,Boston Celtics,102,13989,38,3,4,41,8,0,3
+2024-04-27 15:00:00,Miami Heat,84,Boston Celtics,104,13987,16,3,5,31,2,0,0
+2024-04-24 16:00:00,Boston Celtics,101,Miami Heat,111,13984,13,4,1,36,2,1,1
+2024-04-21 10:00:00,Boston Celtics,114,Miami Heat,94,13982,20,4,3,33,4,0,1
+2024-04-14 10:00:00,Boston Celtics,132,Washington Wizards,122,13734,0,0,0,0,0,0,0
+2024-04-12 16:30:00,Boston Celtics,131,Charlotte Hornets,98,13721,0,0,0,0,0,0,0
+2024-04-11 16:30:00,Boston Celtics,109,New York Knicks,118,13715,2,2,2,29,0,1,1
+2024-04-09 16:30:00,Milwaukee Bucks,104,Boston Celtics,91,13696,9,3,4,31,3,2,0
+2024-04-07 15:00:00,Boston Celtics,124,Portland Trail Blazers,107,13682,15,9,1,31,3,1,0
+2024-04-05 16:30:00,Boston Celtics,101,Sacramento Kings,100,13666,0,0,0,0,0,0,0
+2024-04-03 16:30:00,Boston Celtics,135,Oklahoma City Thunder,100,13653,8,6,1,31,2,1,1
+2024-04-01 16:00:00,Charlotte Hornets,104,Boston Celtics,118,13635,19,5,9,36,4,0,1
+2024-03-30 14:00:00,New Orleans Pelicans,92,Boston Celtics,104,13622,15,3,3,32,3,0,0
+2024-03-28 16:30:00,Atlanta Hawks,123,Boston Celtics,122,13608,22,5,7,41,5,1,0
+2024-03-25 16:30:00,Atlanta Hawks,120,Boston Celtics,118,13582,0,0,0,0,0,0,0
+2024-03-23 17:00:00,Chicago Bulls,113,Boston Celtics,124,13571,17,6,3,38,3,1,0
+2024-03-22 16:00:00,Detroit Pistons,102,Boston Celtics,129,13559,19,11,8,36,1,0,1
+2024-03-20 16:30:00,Boston Celtics,122,Milwaukee Bucks,119,13546,23,8,5,37,4,0,2
+2024-03-18 16:30:00,Boston Celtics,119,Detroit Pistons,94,13532,22,10,10,37,6,2,1
+2024-03-17 15:00:00,Washington Wizards,104,Boston Celtics,130,13528,0,0,0,0,0,0,0
+2024-03-14 16:30:00,Boston Celtics,127,Phoenix Suns,112,13503,13,5,8,33,3,2,1
+2024-03-12 18:00:00,Utah Jazz,107,Boston Celtics,123,13491,24,3,6,35,7,1,3
+2024-03-11 19:30:00,Portland Trail Blazers,99,Boston Celtics,121,13486,11,5,6,34,1,2,3
+2024-03-09 17:30:00,Phoenix Suns,107,Boston Celtics,117,13468,10,9,5,35,0,0,1
+2024-03-07 19:00:00,Denver Nuggets,115,Boston Celtics,109,13454,7,6,5,37,0,1,1
+2024-03-05 16:30:00,Cleveland Cavaliers,105,Boston Celtics,104,13434,3,7,6,35,0,0,4
+2024-03-03 12:30:00,Boston Celtics,140,Golden State Warriors,88,13420,14,8,3,20,4,1,0
+2024-03-01 16:30:00,Boston Celtics,138,Dallas Mavericks,110,13407,13,8,7,32,3,1,2
+2024-02-27 16:30:00,Boston Celtics,117,Philadelphia 76ers,99,13384,6,6,6,30,0,2,3
+2024-02-24 17:30:00,New York Knicks,102,Boston Celtics,116,13364,13,6,3,32,3,2,0
+2024-02-22 17:00:00,Chicago Bulls,112,Boston Celtics,129,13345,28,5,3,33,5,2,3
+2024-02-14 16:30:00,Boston Celtics,136,Brooklyn Nets,86,13328,27,4,5,28,5,1,0
+2024-02-13 16:30:00,Brooklyn Nets,110,Boston Celtics,118,13319,16,3,2,38,3,0,0
+2024-02-11 11:00:00,Miami Heat,106,Boston Celtics,110,13307,6,4,2,38,0,0,1
+2024-02-09 16:30:00,Boston Celtics,133,Washington Wizards,129,13291,4,6,2,33,0,3,1
+2024-02-07 16:30:00,Boston Celtics,125,Atlanta Hawks,117,13277,21,7,6,35,5,1,1
+2024-02-04 15:00:00,Boston Celtics,131,Memphis Grizzlies,91,13254,15,3,3,28,4,1,1
+2024-02-01 16:30:00,Boston Celtics,105,Los Angeles Lakers,114,13232,9,6,4,33,1,0,2
+2024-01-30 16:30:00,Boston Celtics,129,Indiana Pacers,124,13218,24,5,2,35,4,1,1
+2024-01-29 16:30:00,Boston Celtics,118,New Orleans Pelicans,112,13207,17,4,1,35,4,1,1
+2024-01-27 16:00:00,Boston Celtics,96,LA Clippers,115,13194,2,2,2,24,0,0,3
+2024-01-25 16:30:00,Miami Heat,110,Boston Celtics,143,13178,15,6,6,29,3,0,2
+2024-01-22 17:30:00,Dallas Mavericks,110,Boston Celtics,119,13159,6,1,4,34,1,2,1
+2024-01-21 16:00:00,Houston Rockets,107,Boston Celtics,116,13151,21,3,11,36,3,0,2
+2024-01-19 16:30:00,Boston Celtics,100,Denver Nuggets,102,13134,24,5,3,36,5,2,1

@@ -1,0 +1,702 @@
+Coby White - assists (over 1.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Coby White - points (over 19.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Coby White - threes (over 3.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Data file for Fred VanVleet not found at player_csv/vanvleet_parsed_games_data.csv
+Data file for Jabari Smith Jr not found at player_csv/jr_parsed_games_data.csv
+Jalen Green - assists (over 1.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Jalen Green - points (over 19.5):
+  Last 10 games: Did not meet (met 0 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Jalen Green - threes (over 1.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+LaMelo Ball - points (over 24.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Data file for Amir Coffey not found at player_csv/coffey_parsed_games_data.csv
+Collin Sexton - assists (over 1.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - assists (over 2.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - assists (under 4.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - assists (under 5.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 8.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 9.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 9.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 10.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 11.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (over 12.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (under 17.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (under 18.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (under 19.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points (under 20.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (over 11.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (over 12.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (over 13.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (over 14.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (over 15.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 21.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 22.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 23.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 24.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 25.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_assists (under 26.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (over 10.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (over 11.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (over 12.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (over 13.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (over 14.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (under 20.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (under 21.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (under 22.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (under 23.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds (under 24.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 12.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 13.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 14.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 15.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 16.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 17.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (over 18.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 23.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 24.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 25.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 26.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 27.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 28.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - points_rebounds_assists (under 29.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - rebounds_assists (over 3.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - rebounds_assists (over 4.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - rebounds_assists (under 6.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - rebounds_assists (under 7.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - rebounds_assists (under 8.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - threes (over 0.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - threes (over 0.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Collin Sexton - threes (under 2.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - blocks (over 0.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (over 9.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 37 times in last 50 games)
+
+John Collins - points (over 10.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 36 times in last 50 games)
+
+John Collins - points (over 11.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (over 12.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (over 13.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (over 14.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (over 14.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 19.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 20.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 21.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 22.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 23.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points (under 24.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 17.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 18.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 19.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 20.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 21.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 22.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (over 23.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 29.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 30.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 31.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 32.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 33.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 34.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 35.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 36.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - points_rebounds (under 37.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (over 5.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (over 5.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (over 6.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (over 7.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (over 7.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (under 10.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (under 11.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - rebounds (under 12.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - steals (over 0.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+John Collins - threes (over 0.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - assists (over 2.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - assists (over 3.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - assists (over 3.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - assists (under 6.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - assists (under 7.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (over 7.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (over 8.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (over 9.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (over 9.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (over 10.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (under 15.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (under 16.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (under 17.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points (under 18.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 10.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 11.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 12.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 13.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 14.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (over 15.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (under 21.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (under 22.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (under 23.5):
+  Last 10 games: Did not meet (met 8 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - points_assists (under 24.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - threes (over 0.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - threes (over 0.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - threes (over 1.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Keyonte George - threes (under 3.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 11.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 12.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 13.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 14.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 14.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (over 15.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (under 21.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (under 22.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (under 23.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (under 24.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points (under 25.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 44 times in last 50 games)
+
+Lauri Markkanen - points (under 26.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Met (met 45 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (over 16.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 17.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 18.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 19.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 20.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 21.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (over 22.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (under 29.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - points_rebounds (under 30.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 40 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (under 31.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 42 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (under 32.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 42 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (under 33.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 43 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (under 34.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Met (met 45 times in last 50 games)
+
+Lauri Markkanen - points_rebounds (under 35.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Met (met 45 times in last 50 games)
+
+Lauri Markkanen - rebounds (over 3.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - rebounds (over 4.5):
+  Last 10 games: Did not meet (met 5 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - rebounds (over 5.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - rebounds (over 5.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - rebounds (under 8.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - threes (over 0.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - threes (over 1.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - threes (over 1.5):
+  Last 10 games: Did not meet (met 6 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - threes (under 3.5):
+  Last 10 games: Did not meet (met 9 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Lauri Markkanen - threes (under 4.5):
+  Last 10 games: Met (met 10 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 44 times in last 50 games)
+
+Jamal Murray - assists (over 5.5):
+  Last 10 games: Did not meet (met 0 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Mikal Bridges - assists (over 1.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Mikal Bridges - points (over 14.5):
+  Last 10 games: Did not meet (met 3 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Klay Thompson - points (over 9.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Klay Thompson - threes (over 2.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Kyrie Irving - assists (over 5.5):
+  Last 10 games: Did not meet (met 4 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)
+
+Kyrie Irving - points (over 19.5):
+  Last 10 games: Did not meet (met 7 times in last 10 games)
+  Last 50 games (88% threshold): Did not meet (met 0 times in last 0 games)

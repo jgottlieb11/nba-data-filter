@@ -1,0 +1,142 @@
+Date: 2024-11-17 16:00:00, Chicago Bulls 107 - Houston Rockets 143
+  Game ID: 14315, Points: 8, Assists: 4, Rebounds: 2, Minutes: 25, Threes: 2, Steals: 0, Blocks: 1
+Date: 2024-11-15 16:30:00, Cleveland Cavaliers 144 - Chicago Bulls 126
+  Game ID: 14295, Points: 29, Assists: 3, Rebounds: 1, Minutes: 30, Threes: 6, Steals: 2, Blocks: 0
+Date: 2024-11-13 16:30:00, New York Knicks 123 - Chicago Bulls 124
+  Game ID: 14281, Points: 22, Assists: 4, Rebounds: 1, Minutes: 36, Threes: 2, Steals: 1, Blocks: 0
+Date: 2024-11-11 17:00:00, Chicago Bulls 113 - Cleveland Cavaliers 119
+  Game ID: 14266, Points: 20, Assists: 6, Rebounds: 7, Minutes: 37, Threes: 5, Steals: 4, Blocks: 1
+Date: 2024-11-09 16:30:00, Atlanta Hawks 113 - Chicago Bulls 125
+  Game ID: 14252, Points: 18, Assists: 5, Rebounds: 4, Minutes: 33, Threes: 2, Steals: 3, Blocks: 0
+Date: 2024-11-07 17:00:00, Chicago Bulls 119 - Minnesota Timberwolves 135
+  Game ID: 14235, Points: 24, Assists: 8, Rebounds: 0, Minutes: 34, Threes: 4, Steals: 0, Blocks: 0
+Date: 2024-11-06 17:30:00, Dallas Mavericks 119 - Chicago Bulls 99
+  Game ID: 14230, Points: 8, Assists: 5, Rebounds: 1, Minutes: 29, Threes: 1, Steals: 1, Blocks: 0
+Date: 2024-11-04 17:30:00, Chicago Bulls 126 - Utah Jazz 135
+  Game ID: 14214, Points: 28, Assists: 6, Rebounds: 4, Minutes: 34, Threes: 6, Steals: 2, Blocks: 0
+Date: 2024-11-01 16:30:00, Brooklyn Nets 120 - Chicago Bulls 112
+  Game ID: 14190, Points: 21, Assists: 4, Rebounds: 4, Minutes: 34, Threes: 5, Steals: 0, Blocks: 0
+Date: 2024-10-30 17:00:00, Chicago Bulls 102 - Orlando Magic 99
+  Game ID: 14177, Points: 21, Assists: 3, Rebounds: 2, Minutes: 37, Threes: 4, Steals: 1, Blocks: 0
+Date: 2024-10-28 17:00:00, Memphis Grizzlies 123 - Chicago Bulls 126
+  Game ID: 14162, Points: 20, Assists: 5, Rebounds: 2, Minutes: 32, Threes: 5, Steals: 0, Blocks: 0
+Date: 2024-04-19 16:00:00, Miami Heat 112 - Chicago Bulls 91
+  Game ID: 13942, Points: 13, Assists: 4, Rebounds: 2, Minutes: 36, Threes: 2, Steals: 1, Blocks: 0
+Date: 2024-04-17 18:48:00, Chicago Bulls 131 - Atlanta Hawks 116
+  Game ID: 13934, Points: 42, Assists: 6, Rebounds: 9, Minutes: 43, Threes: 3, Steals: 2, Blocks: 0
+Date: 2024-04-14 10:00:00, New York Knicks 120 - Chicago Bulls 119
+  Game ID: 13738, Points: 26, Assists: 4, Rebounds: 2, Minutes: 43, Threes: 0, Steals: 2, Blocks: 0
+Date: 2024-04-12 16:00:00, Washington Wizards 127 - Chicago Bulls 129
+  Game ID: 13720, Points: 20, Assists: 4, Rebounds: 4, Minutes: 27, Threes: 0, Steals: 1, Blocks: 0
+Date: 2024-04-11 16:00:00, Detroit Pistons 105 - Chicago Bulls 127
+  Game ID: 13714, Points: 18, Assists: 5, Rebounds: 3, Minutes: 37, Threes: 4, Steals: 0, Blocks: 1
+Date: 2024-04-09 17:00:00, Chicago Bulls 117 - New York Knicks 128
+  Game ID: 13697, Points: 24, Assists: 6, Rebounds: 3, Minutes: 42, Threes: 2, Steals: 1, Blocks: 0
+Date: 2024-04-07 15:00:00, Orlando Magic 113 - Chicago Bulls 98
+  Game ID: 13684, Points: 11, Assists: 6, Rebounds: 2, Minutes: 38, Threes: 1, Steals: 0, Blocks: 0
+Date: 2024-04-05 17:00:00, Chicago Bulls 108 - New York Knicks 100
+  Game ID: 13667, Points: 2, Assists: 1, Rebounds: 3, Minutes: 14, Threes: 0, Steals: 0, Blocks: 0
+Date: 2024-04-01 17:00:00, Chicago Bulls 101 - Atlanta Hawks 113
+  Game ID: 13639, Points: 22, Assists: 3, Rebounds: 3, Minutes: 39, Threes: 2, Steals: 1, Blocks: 0
+Date: 2024-03-31 16:00:00, Minnesota Timberwolves 101 - Chicago Bulls 109
+  Game ID: 13632, Points: 17, Assists: 3, Rebounds: 5, Minutes: 41, Threes: 4, Steals: 0, Blocks: 0
+Date: 2024-03-29 16:30:00, Brooklyn Nets 125 - Chicago Bulls 108
+  Game ID: 13614, Points: 18, Assists: 9, Rebounds: 2, Minutes: 39, Threes: 3, Steals: 0, Blocks: 0
+Date: 2024-03-27 17:00:00, Chicago Bulls 125 - Indiana Pacers 99
+  Game ID: 13602, Points: 18, Assists: 2, Rebounds: 7, Minutes: 35, Threes: 2, Steals: 1, Blocks: 0
+Date: 2024-03-25 17:00:00, Chicago Bulls 105 - Washington Wizards 107
+  Game ID: 13585, Points: 22, Assists: 5, Rebounds: 4, Minutes: 36, Threes: 2, Steals: 0, Blocks: 1
+Date: 2024-03-23 17:00:00, Chicago Bulls 113 - Boston Celtics 124
+  Game ID: 13571, Points: 11, Assists: 10, Rebounds: 5, Minutes: 36, Threes: 1, Steals: 0, Blocks: 0
+Date: 2024-03-21 17:00:00, Houston Rockets 127 - Chicago Bulls 117
+  Game ID: 13554, Points: 13, Assists: 3, Rebounds: 4, Minutes: 29, Threes: 2, Steals: 0, Blocks: 0
+Date: 2024-03-18 17:00:00, Chicago Bulls 110 - Portland Trail Blazers 107
+  Game ID: 13534, Points: 0, Assists: 0, Rebounds: 0, Minutes: 0, Threes: 0, Steals: 0, Blocks: 0
+Date: 2024-03-16 17:00:00, Chicago Bulls 127 - Washington Wizards 98
+  Game ID: 13519, Points: 0, Assists: 0, Rebounds: 0, Minutes: 0, Threes: 0, Steals: 0, Blocks: 0
+Date: 2024-03-14 17:00:00, Chicago Bulls 111 - LA Clippers 126
+  Game ID: 13504, Points: 0, Assists: 0, Rebounds: 0, Minutes: 0, Threes: 0, Steals: 0, Blocks: 0
+Date: 2024-03-13 16:30:00, Indiana Pacers 129 - Chicago Bulls 132
+  Game ID: 13496, Points: 15, Assists: 3, Rebounds: 4, Minutes: 36, Threes: 1, Steals: 2, Blocks: 1
+Date: 2024-03-11 17:00:00, Chicago Bulls 92 - Dallas Mavericks 127
+  Game ID: 13483, Points: 12, Assists: 1, Rebounds: 2, Minutes: 27, Threes: 1, Steals: 0, Blocks: 0
+Date: 2024-03-09 13:00:00, LA Clippers 112 - Chicago Bulls 102
+  Game ID: 13465, Points: 19, Assists: 4, Rebounds: 5, Minutes: 41, Threes: 3, Steals: 0, Blocks: 0
+Date: 2024-03-07 19:00:00, Golden State Warriors 122 - Chicago Bulls 125
+  Game ID: 13455, Points: 20, Assists: 7, Rebounds: 4, Minutes: 37, Threes: 2, Steals: 3, Blocks: 0
+Date: 2024-03-06 18:00:00, Utah Jazz 117 - Chicago Bulls 119
+  Game ID: 13446, Points: 25, Assists: 6, Rebounds: 6, Minutes: 42, Threes: 7, Steals: 0, Blocks: 1
+Date: 2024-03-04 19:00:00, Sacramento Kings 109 - Chicago Bulls 113
+  Game ID: 13431, Points: 37, Assists: 7, Rebounds: 5, Minutes: 44, Threes: 5, Steals: 1, Blocks: 0
+Date: 2024-03-01 19:00:00, Chicago Bulls 97 - Milwaukee Bucks 113
+  Game ID: 13412, Points: 22, Assists: 2, Rebounds: 3, Minutes: 38, Threes: 2, Steals: 0, Blocks: 0
+Date: 2024-02-28 17:00:00, Chicago Bulls 132 - Cleveland Cavaliers 123
+  Game ID: 13394, Points: 14, Assists: 12, Rebounds: 8, Minutes: 50, Threes: 2, Steals: 1, Blocks: 1
+Date: 2024-02-27 17:00:00, Chicago Bulls 95 - Detroit Pistons 105
+  Game ID: 13387, Points: 10, Assists: 6, Rebounds: 5, Minutes: 41, Threes: 0, Steals: 0, Blocks: 0
+Date: 2024-02-25 16:00:00, New Orleans Pelicans 106 - Chicago Bulls 114
+  Game ID: 13371, Points: 16, Assists: 3, Rebounds: 7, Minutes: 37, Threes: 2, Steals: 2, Blocks: 0
+Date: 2024-02-22 17:00:00, Chicago Bulls 112 - Boston Celtics 129
+  Game ID: 13345, Points: 20, Assists: 4, Rebounds: 2, Minutes: 35, Threes: 4, Steals: 1, Blocks: 0
+Date: 2024-02-14 16:30:00, Cleveland Cavaliers 108 - Chicago Bulls 105
+  Game ID: 13329, Points: 32, Assists: 4, Rebounds: 7, Minutes: 39, Threes: 5, Steals: 1, Blocks: 0
+Date: 2024-02-12 16:30:00, Atlanta Hawks 126 - Chicago Bulls 136
+  Game ID: 13311, Points: 20, Assists: 7, Rebounds: 4, Minutes: 33, Threes: 1, Steals: 1, Blocks: 0
+Date: 2024-02-10 16:00:00, Orlando Magic 114 - Chicago Bulls 108
+  Game ID: 13300, Points: 14, Assists: 7, Rebounds: 4, Minutes: 45, Threes: 2, Steals: 2, Blocks: 0
+Date: 2024-02-08 17:00:00, Memphis Grizzlies 110 - Chicago Bulls 118
+  Game ID: 13285, Points: 20, Assists: 8, Rebounds: 6, Minutes: 36, Threes: 2, Steals: 0, Blocks: 0
+Date: 2024-02-06 17:00:00, Chicago Bulls 129 - Minnesota Timberwolves 123
+  Game ID: 13271, Points: 33, Assists: 7, Rebounds: 5, Minutes: 42, Threes: 7, Steals: 1, Blocks: 0
+Date: 2024-02-03 17:00:00, Chicago Bulls 115 - Sacramento Kings 123
+  Game ID: 13248, Points: 26, Assists: 4, Rebounds: 6, Minutes: 36, Threes: 4, Steals: 0, Blocks: 0
+Date: 2024-01-31 16:00:00, Charlotte Hornets 110 - Chicago Bulls 117
+  Game ID: 13222, Points: 35, Assists: 9, Rebounds: 7, Minutes: 43, Threes: 4, Steals: 0, Blocks: 0
+Date: 2024-01-30 17:00:00, Chicago Bulls 107 - Toronto Raptors 118
+  Game ID: 13220, Points: 13, Assists: 6, Rebounds: 2, Minutes: 35, Threes: 1, Steals: 1, Blocks: 0
+Date: 2024-01-28 18:00:00, Portland Trail Blazers 96 - Chicago Bulls 104
+  Game ID: 13204, Points: 15, Assists: 9, Rebounds: 5, Minutes: 42, Threes: 1, Steals: 1, Blocks: 0
+Date: 2024-01-25 19:30:00, Los Angeles Lakers 141 - Chicago Bulls 132
+  Game ID: 13181, Points: 25, Assists: 3, Rebounds: 7, Minutes: 43, Threes: 3, Steals: 0, Blocks: 0
+Date: 2024-01-22 18:00:00, Phoenix Suns 115 - Chicago Bulls 113
+  Game ID: 13160, Points: 26, Assists: 9, Rebounds: 10, Minutes: 41, Threes: 4, Steals: 2, Blocks: 0
+Date: 2024-01-20 17:00:00, Chicago Bulls 125 - Memphis Grizzlies 96
+  Game ID: 13145, Points: 17, Assists: 5, Rebounds: 5, Minutes: 36, Threes: 1, Steals: 0, Blocks: 0
+Date: 2024-01-18 16:30:00, Toronto Raptors 110 - Chicago Bulls 116
+  Game ID: 13128, Points: 23, Assists: 4, Rebounds: 8, Minutes: 35, Threes: 1, Steals: 2, Blocks: 0
+Date: 2024-01-15 16:00:00, Cleveland Cavaliers 109 - Chicago Bulls 91
+  Game ID: 13109, Points: 18, Assists: 3, Rebounds: 4, Minutes: 38, Threes: 1, Steals: 1, Blocks: 2
+Date: 2024-01-13 17:30:00, San Antonio Spurs 116 - Chicago Bulls 122
+  Game ID: 13096, Points: 15, Assists: 4, Rebounds: 2, Minutes: 32, Threes: 0, Steals: 0, Blocks: 1
+Date: 2024-01-12 17:00:00, Chicago Bulls 131 - Golden State Warriors 140
+  Game ID: 13084, Points: 25, Assists: 7, Rebounds: 4, Minutes: 37, Threes: 5, Steals: 0, Blocks: 0
+Date: 2024-01-10 17:00:00, Chicago Bulls 124 - Houston Rockets 119
+  Game ID: 13071, Points: 30, Assists: 8, Rebounds: 4, Minutes: 43, Threes: 6, Steals: 0, Blocks: 1
+Date: 2024-01-08 16:00:00, Charlotte Hornets 112 - Chicago Bulls 119
+  Game ID: 13054, Points: 27, Assists: 5, Rebounds: 6, Minutes: 42, Threes: 3, Steals: 0, Blocks: 0
+Date: 2024-01-05 17:00:00, Chicago Bulls 104 - Charlotte Hornets 91
+  Game ID: 13032, Points: 22, Assists: 6, Rebounds: 10, Minutes: 40, Threes: 3, Steals: 0, Blocks: 0
+Date: 2024-01-03 17:30:00, New York Knicks 116 - Chicago Bulls 100
+  Game ID: 13016, Points: 26, Assists: 8, Rebounds: 4, Minutes: 38, Threes: 6, Steals: 0, Blocks: 1
+Date: 2024-01-02 16:00:00, Philadelphia 76ers 110 - Chicago Bulls 97
+  Game ID: 13007, Points: 14, Assists: 3, Rebounds: 4, Minutes: 29, Threes: 0, Steals: 2, Blocks: 0
+Date: 2023-12-30 17:00:00, Chicago Bulls 105 - Philadelphia 76ers 92
+  Game ID: 12990, Points: 20, Assists: 2, Rebounds: 8, Minutes: 40, Threes: 1, Steals: 0, Blocks: 0
+Date: 2023-12-28 17:00:00, Chicago Bulls 104 - Indiana Pacers 120
+  Game ID: 12970, Points: 16, Assists: 2, Rebounds: 5, Minutes: 33, Threes: 2, Steals: 0, Blocks: 0
+Date: 2023-12-26 17:00:00, Chicago Bulls 118 - Atlanta Hawks 113
+  Game ID: 12956, Points: 19, Assists: 5, Rebounds: 5, Minutes: 37, Threes: 0, Steals: 0, Blocks: 0
+Date: 2023-12-23 17:00:00, Chicago Bulls 95 - Cleveland Cavaliers 109
+  Game ID: 12944, Points: 17, Assists: 7, Rebounds: 4, Minutes: 40, Threes: 0, Steals: 0, Blocks: 1
+Date: 2023-12-21 17:00:00, Chicago Bulls 114 - San Antonio Spurs 95
+  Game ID: 12924, Points: 22, Assists: 5, Rebounds: 6, Minutes: 36, Threes: 2, Steals: 0, Blocks: 0
+Date: 2023-12-20 17:00:00, Chicago Bulls 124 - Los Angeles Lakers 108
+  Game ID: 12918, Points: 17, Assists: 5, Rebounds: 7, Minutes: 33, Threes: 3, Steals: 0, Blocks: 0
+Date: 2023-12-18 16:00:00, Philadelphia 76ers 104 - Chicago Bulls 108
+  Game ID: 12899, Points: 24, Assists: 9, Rebounds: 8, Minutes: 40, Threes: 2, Steals: 0, Blocks: 1
+Date: 2023-12-16 17:00:00, Miami Heat 118 - Chicago Bulls 116
+  Game ID: 12885, Points: 22, Assists: 5, Rebounds: 7, Minutes: 39, Threes: 4, Steals: 1, Blocks: 0
+Date: 2023-12-14 16:30:00, Miami Heat 116 - Chicago Bulls 124
+  Game ID: 12868, Points: 26, Assists: 11, Rebounds: 7, Minutes: 40, Threes: 4, Steals: 1, Blocks: 0
+Date: 2023-12-12 17:00:00, Chicago Bulls 106 - Denver Nuggets 114
+  Game ID: 12855, Points: 27, Assists: 8, Rebounds: 4, Minutes: 35, Threes: 5, Steals: 1, Blocks: 0
